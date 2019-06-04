@@ -1,0 +1,20 @@
+.root {
+     -fx-background-color: #f3f6ff;
+}
+
+.label
+{
+-fx-text-fill         : black;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-font-size: 14;
+    -fx-font-weight: bold;
+}
+
+.button
+{
+    -fx-text-fill: #E1F5FE;
+    -fx-background-color: #4a4a4a;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-font-size: 12pt;
+}
